@@ -7,4 +7,10 @@ This is the text file in the VS code where we can provide details, hello everyon
 VS code is used for developing web applications.
 I love to work with VS code anytime, thankyou.
 
+---
+----
+-----
+------
+--------
+
  alter
