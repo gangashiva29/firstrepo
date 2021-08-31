@@ -1,3 +1,10 @@
+ HEAD
 This is the text file in the VS code where we can provide details,------.
 VS code is used for developing web applications.
 I love to work with VS code anytime,-------.
+
+This is the text file in the VS code where we can provide details, hello everyone.
+VS code is used for developing web applications.
+I love to work with VS code anytime, thankyou.
+
+ alter
